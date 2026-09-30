@@ -1,16 +1,127 @@
-# React + Vite
+# 🎓 UNIBAC Web Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Institutional multilingual web platform designed and developed for the **Université Baptiste au Congo (UNIBAC)**.
 
-Currently, two official plugins are available:
+This project presents a modern university website prototype focused on institutional information, academic programs, admissions, research, campus resources and accessibility across multiple languages.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📌 Project Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The UNIBAC Web Platform was developed as a modern front-end solution for presenting the university's institutional and academic information through a clear, responsive and user-friendly interface.
 
-## Expanding the Oxlint configuration
+The platform centralizes several areas of the university website, including academic programs, admissions, faculties, research, library resources, university news and institutional information.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+This project is part of my professional portfolio in **Front-End Development and Information Systems**.
+
+---
+
+## ✨ Key Features
+
+- 🌍 Multilingual interface: French, English and Kikongo
+- 🎓 Academic programs and faculties presentation
+- 📝 Admissions information and student journey
+- 🔬 Research and publications section
+- 📚 Library and digital campus information
+- 🏛️ Institutional and Rectorate information
+- 📰 University news and campus information
+- 👥 Alumni section
+- 📱 Responsive web interface
+- ✨ Modern animations and transitions
+- 🧭 Multi-page navigation with React Router
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- Vite
+- React Router
+- Framer Motion
+- Lucide React
+- JavaScript
+- HTML5
+- CSS3
+- Git & GitHub
+
+---
+
+## 🏗️ Project Structure
+
+```text
+frontend/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── data/
+│   │   └── content.js
+│   ├── pages/
+│   ├── styles/
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+└── vite.config.js
+```
+
+The application follows a component-based architecture, separating reusable interface components, pages, multilingual content, styles and static assets.
+
+---
+
+## 🌐 Multilingual Content
+
+The platform includes content management for:
+
+- 🇫🇷 French
+- 🇬🇧 English
+- 🇨🇩 Kikongo
+
+The multilingual structure allows institutional information to be presented to different audiences while keeping the interface consistent.
+
+---
+
+## 📸 Screenshots
+
+Screenshots of the main interfaces will be added here.
+
+---
+
+## 🚀 Live Demo
+
+A public demonstration link will be added here.
+
+---
+
+## 🎯 Project Purpose
+
+This project demonstrates my ability to:
+
+- Design and structure a modern institutional web interface
+- Build reusable React components
+- Organize multilingual content
+- Implement responsive interfaces
+- Structure information according to institutional needs
+- Transform functional requirements into a usable digital solution
+- Manage and publish a development project with Git and GitHub
+
+---
+
+## 👨‍💻 Author
+
+**Emmanuel Joël Ndolo Mayunda**
+
+Data Analyst | React Front-End Developer | Information Systems | IT Support
+
+📍 Kinshasa, Democratic Republic of the Congo
+
+---
+
+## 📄 Project Status
+
+Portfolio version / institutional prototype.
+
+The platform can continue to evolve according to official institutional requirements and validated content.
+
+---
+
+© 2026 Emmanuel Joël Ndolo Mayunda
